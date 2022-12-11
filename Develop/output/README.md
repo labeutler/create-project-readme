@@ -11,20 +11,20 @@
     - [License](#license)
   
     ## Description
-    * Creaste a functioning readme from the command line.
-    * undefined
+    * Create a functioning readme from the command line.
+    * To be entered later
   
     ## Installation
-    Yes, clone the repo to local drive. Install dependencies by running 'node install' in order for project to function accurately.  Finally run 'node index.js' for README.md to generate.
+    Yes. Clone the repo to local drive. Install dependencies by running 'node install' in order for project to function accurately. Finally run 'node index.js' for README.md to generate.
   
     ## Usage
     The readme is used to give a brief description of what is happening in the full project.
   
     ## Contributing
-    Use of Chose a License (https://choosealicense.com/licenses/) to provide links for project.
+    Use of Chose a license (https://choosealicense.com/licenses/) to provide links for project.
   
     ## Tests
-    none
+    None
   
     ## Questions
     * Name: Laura Beutler

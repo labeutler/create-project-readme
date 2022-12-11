@@ -1,9 +1,11 @@
 // TODO: Include packages needed for this application
+// packages listed for project to collect data
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown')
 
 // TODO: Create an array of questions for user input
+// Array of questions prompted to answer in command line to create readme
 const questions = [ 
     {
         type: 'input',
@@ -20,11 +22,11 @@ const questions = [
         name: 'description',
         message: 'What is the project description?',
     },
-    // {
-    //     type: 'input',
-    //     name: 'acceptance',
-    //     message: 'What is the acceptance criteria for the project?',
-    // },
+    {
+        type: 'input',
+        name: 'acceptance',
+        message: 'What is the acceptance criteria for the project?',
+    },
     {
         type: 'input',
         name: 'installation',
@@ -78,7 +80,7 @@ const questions = [
     },
 ]
 
-// TODO: Create a function to write README file
+// Create a function to write README file
 function writeToFile(fileName, data) {
     return inquirer.prompt(questions)
     .then((answers) =>{
@@ -91,7 +93,7 @@ function writeToFile(fileName, data) {
 
 writeToFile()
 
-// TODO: Create a function to initialize app
+// Create a function to initialize app
 function init() {}
 
 // Function call to initialize app

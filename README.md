@@ -48,6 +48,15 @@ Yes, clone the repo to local drive. Install dependencies by running 'node instal
 ## Usage
 The readme is used to give a brief description of what is happening in the full project.
 
+Make sure you are working in command line and run 'node install' to make sure all dependencies are installed.
+![alt text](/Develop/images/npm%20install.png)
+
+Once complete, run 'node index.js' and begin answering questions
+![alt text](/Develop/images/command%20line%20questions.png)
+
+Once all questions are answered, you will get a confirmation. 
+![alt text](/Develop/images/confrimation.png)
+
 ![alt text](assets/images/screenshot.png)
   
 ## Contributing
