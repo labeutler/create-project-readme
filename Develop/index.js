@@ -20,11 +20,11 @@ const questions = [
         name: 'description',
         message: 'What is the project description?',
     },
-    {
-        type: 'input',
-        name: 'acceptance',
-        message: 'What is the acceptance criteria for the project?',
-    },
+    // {
+    //     type: 'input',
+    //     name: 'acceptance',
+    //     message: 'What is the acceptance criteria for the project?',
+    // },
     {
         type: 'input',
         name: 'installation',
@@ -58,17 +58,17 @@ const questions = [
     {
         type: 'input',
         name: 'githubLink',
-        message: 'Please enter the GitHub link.',
+        message: 'Please enter the URL for GitHub.',
     },
     {
         type: 'input',
         name: 'clone',
-        message: 'Please enter your GitHub repository link to clone project.',
+        message: 'Please enter the URL for your GitHub repository to clone project.',
     },
     {
         type: 'input',
         name: 'questions',
-        message: 'Please enter email:',
+        message: 'Please enter GitHub email:',
     },
     {
         type: 'list',

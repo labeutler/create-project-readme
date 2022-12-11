@@ -1,5 +1,5 @@
 ![License: MIT](https://img.shields.io/badge/license-MIT-yellow)
-    # readme
+    # create-project-README.md
   
     ## Table of Content
     - [Description](#description)
@@ -11,26 +11,26 @@
     - [License](#license)
   
     ## Description
-    * create a readme from the command line
-    * listed
+    * Creaste a functioning readme from the command line.
+    * undefined
   
     ## Installation
-    listed
+    Yes, clone the repo to local drive. Install dependencies by running 'node install' in order for project to function accurately.  Finally run 'node index.js' for README.md to generate.
   
     ## Usage
-    to give a breif description
+    The readme is used to give a brief description of what is happening in the full project.
   
     ## Contributing
-    yes
+    Use of Chose a License (https://choosealicense.com/licenses/) to provide links for project.
   
     ## Tests
     none
   
     ## Questions
-    * Name: lara
-    * GitHub User Name: lab
-    * GitHub Link: github.com
-    * GitHub Repository Link: github.com/lab
+    * Name: Laura Beutler
+    * GitHub User Name: labeutler
+    * GitHub Link: https://github.com/
+    * GitHub Repository Link: https://github.com/labeutler/create-project-readme
     * Github Email Address: undefined
   
     ## License
