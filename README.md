@@ -56,8 +56,6 @@ Once complete, run 'node index.js' and begin answering questions
 
 Once all questions are answered, you will get a confirmation. 
 ![alt text](/Develop/images/confrimation.png)
-
-![alt text](assets/images/screenshot.png)
   
 ## Contributing
 Use of Chose a License (https://choosealicense.com/licenses/) to provide links for project.
@@ -70,7 +68,7 @@ none
 * GitHub User Name: labeutler
 * GitHub Link: https://github.com/
 * GitHub Repository Link: https://github.com/labeutler/create-project-readme
-* Github Email Address: undefined
+* Github Email Address: 	112600051+labeutler@users.noreply.github.com
   
 ## License
 [License: MIT](https://choosealicense.com/licenses/mit/)

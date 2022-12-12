@@ -1,0 +1,24 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "8.2.4"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": "![License: MIT](https://img.shields.io/badge/license-MIT-yellow)\r # create-project-README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/labeutler/create-project-readme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/labeutler/create-project-readme/issues"
+  },
+  "homepage": "https://github.com/labeutler/create-project-readme#readme"
+}
