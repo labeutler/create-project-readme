@@ -46,6 +46,8 @@ THEN I am taken to the corresponding section of the README
 Yes, clone the repo to local drive. Install dependencies by running 'node install' in order for project to function accurately.  Finally run 'node index.js' for README.md to generate.
   
 ## Usage
+Link to walkthrough video [demo here.](./Develop/images/createReadme.mp4)
+
 The readme is used to give a brief description of what is happening in the full project.
 
 Make sure you are working in command line and run 'node install' to make sure all dependencies are installed.
